@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
+ 
+ 
+ 
  Ola Ride Booking Analytics
 
 > **End-to-End Data Analytics Project using Python, SQL, Power BI, and Excel**
@@ -19,6 +25,10 @@ Ride-sharing companies generate thousands of bookings every day. Understanding c
 ---
 
 Tools & Technologies
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 - 🐍 Python
 - 🗄️ SQL (MySQL)
